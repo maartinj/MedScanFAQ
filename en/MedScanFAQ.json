@@ -1,0 +1,58 @@
+[
+  {
+    "answer" : "MedScan is an AI-powered app that analyzes photos of medicines to estimate treatment effectiveness, identify features, or detect possible side effects.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "What is MedScan?",
+    "sortOrder" : 1
+  },
+  {
+    "answer" : "You take or upload a photo of a medicine, and our AI analyzes it to provide helpful insights based on visual features.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "How does it work?",
+    "sortOrder" : 2
+  },
+  {
+    "answer" : "No. MedScan provides AI-based estimations and should not replace professional medical advice. Always consult a healthcare provider for medical decisions.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Can MedScan replace my doctor or pharmacist?",
+    "sortOrder" : 3
+  },
+  {
+    "answer" : "While MedScan uses advanced AI, it may not work correctly with all images. Results are estimations and may vary.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Is MedScan always accurate?",
+    "sortOrder" : 4
+  },
+  {
+    "answer" : "You can take a new picture using your camera or choose an image from your photo library.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "How can I upload a photo?",
+    "sortOrder" : 5
+  },
+  {
+    "answer" : "MedScan offers a free trial with a limited number of scans. Unlimited scans require a premium subscription.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Is MedScan free to use?",
+    "sortOrder" : 6
+  },
+  {
+    "answer" : "AI analysis requires significant computing power, which has a cost. The subscription helps cover these resources and ensures continued service.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Why is there a subscription?",
+    "sortOrder" : 7
+  },
+  {
+    "answer" : "You can reach us at maartinjdev@gmail.com. We’re happy to help!",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "How can I contact support?",
+    "sortOrder" : 8
+  }
+]
