@@ -1,0 +1,58 @@
+[
+  {
+    "answer" : "MedScan to aplikacja wykorzystująca sztuczną inteligencję do analizy zdjęć leków w celu oszacowania skuteczności leczenia, rozpoznania cech charakterystycznych lub możliwych skutków ubocznych.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Czym jest MedScan?",
+    "sortOrder" : 1
+  },
+  {
+    "answer" : "Zrób zdjęcie leku lub wybierz je z galerii, a nasza AI przeanalizuje obraz i przedstawi przydatne informacje na jego podstawie.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Jak to działa?",
+    "sortOrder" : 2
+  },
+  {
+    "answer" : "Nie. MedScan dostarcza jedynie szacunków opartych na AI i nie zastępuje porady medycznej. W razie wątpliwości zawsze skonsultuj się z lekarzem lub farmaceutą.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Czy MedScan zastępuje lekarza lub farmaceutę?",
+    "sortOrder" : 3
+  },
+  {
+    "answer" : "Mimo zaawansowania AI, aplikacja może nie działać prawidłowo dla każdego zdjęcia. Wyniki są szacunkowe i mogą się różnić.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Czy MedScan zawsze działa poprawnie?",
+    "sortOrder" : 4
+  },
+  {
+    "answer" : "Możesz zrobić nowe zdjęcie aparatem lub wybrać je z biblioteki zdjęć.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Jak mogę dodać zdjęcie?",
+    "sortOrder" : 5
+  },
+  {
+    "answer" : "MedScan oferuje darmowy okres próbny z ograniczoną liczbą analiz. Nielimitowany dostęp wymaga subskrypcji premium.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Czy MedScan jest darmowy?",
+    "sortOrder" : 6
+  },
+  {
+    "answer" : "Analiza AI wymaga dużej mocy obliczeniowej, co generuje koszty. Subskrypcja pomaga je pokryć i zapewnia ciągłość działania usługi.",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Dlaczego trzeba płacić za subskrypcję?",
+    "sortOrder" : 7
+  },
+  {
+    "answer" : "Napisz do nas na adres maartinjdev@gmail.com – chętnie pomożemy!",
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Jak mogę skontaktować się z pomocą techniczną?",
+    "sortOrder" : 8
+  }
+]
