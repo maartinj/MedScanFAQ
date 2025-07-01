@@ -14,7 +14,7 @@
     "sortOrder" : 2
   },
   {
-    "answer" : "Nie. MedScan dostarcza jedynie szacunków opartych na AI i nie zastępuje porady medycznej. W razie wątpliwości zawsze skonsultuj się z lekarzem lub farmaceutą.",
+    "answer" : "Nie. MedScan dostarcza jedynie orientacyjnych wyników opartych na AI i nie zastępuje porady medycznej. W razie wątpliwości zawsze skonsultuj się z lekarzem lub farmaceutą.",
     "linkType" : "none",
     "level" : 1,
     "question" : "Czy MedScan zastępuje lekarza lub farmaceutę?",
